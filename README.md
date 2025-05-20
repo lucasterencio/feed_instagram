@@ -1,24 +1,25 @@
 # Feed Instagram
 
-Este projeto é uma aplicação web desenvolvida com Next.js, TypeScript e Tailwind CSS, que simula um feed do Instagram.
+Este projeto é uma aplicação web desenvolvida com Next.js, TypeScript e Tailwind CSS, que simula um feed do Instagram, no qual são renderizados 20 posts com username, avatar, img, descrição e quantidade de likes.
 
 ## Como Executar
 
 1. Clone o repositório:
-   ```bash
+```bash
    git clone https://github.com/lucasterencio/feed_instagram.git
-    ```
+```
 
 2. Instalando dependências
-   ```bash
-   npm install ou yarn install
-    ```
+```bash
+   npm install || yarn install
+```
 
 3. Inicie o servidor de desenvolvimento:
-  ```bash 
-    npm run dev ou yarn dev
-    Abra http://localhost:3000 no seu navegador para visualizar a aplicação.
-  ```
+```bash 
+  npm run dev || yarn dev
+
+  Abra http://localhost:3000 no seu navegador para visualizar a aplicação.
+```
 
 ## Funcionalidades
 
